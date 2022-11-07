@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: f3a676c9b685a2b4c83bb054a74e9cd1
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 1214557178842071641
+    second: Propeller|Action
+  - first:
+      74: 4805357262969937012
+    second: Propeller|Body.001Action
+  - first:
+      74: 7922681173200679175
+    second: Propeller|BodyAction
+  - first:
+      74: 2953591452334867359
+    second: Propeller|CubeAction
+  - first:
+      74: 4665473905081685999
+    second: Propeller|CubeAction.001
+  - first:
+      74: 6494643914831997601
+    second: Propeller|Empty.001Action
+  - first:
+      74: -3733418443625287469
+    second: Propeller|Go
+  - first:
+      74: -4737357235841528366
+    second: Propeller|PropellerAction
+  - first:
+      74: 7874303053394744745
+    second: Propeller|PropellerAction.001
+  - first:
+      74: 8778944711162030961
+    second: Propeller|PropellerAction.002
+  - first:
+      74: -8222643019887261453
+    second: Propeller|Rear Tail Left FlapAction
+  - first:
+      74: 8501898481788775888
+    second: Propeller|Rear Tail LeftAction.002
+  - first:
+      74: 6222584905254186240
+    second: Propeller|Rear Tail Right FlapAction.001
+  - first:
+      74: 2662444658001566072
+    second: Propeller|Rear Tail RightAction
+  - first:
+      74: -4893456207237834369
+    second: Propeller|TailAction
+  - first:
+      74: 6910077728973321911
+    second: Propeller|wheel leftAction
+  - first:
+      74: -6859820322464806272
+    second: Propeller|wheel rightAction
+  - first:
+      74: 4633973037612669823
+    second: Propeller|Wing Left FlapAction.002
+  - first:
+      74: 6222662716421004049
+    second: Propeller|Wing RightAction
+  - first:
+      74: 4772518325833685600
+    second: Propeller|Wing RightAction.002
+  - first:
+      74: -6134606619523670244
+    second: Body|Action
+  - first:
+      74: 2341496202234020628
+    second: Body|Body.001Action
+  - first:
+      74: 4219266326801906582
+    second: Body|BodyAction
+  - first:
+      74: -7687050157170287468
+    second: Body|CubeAction
+  - first:
+      74: -1117962325520212446
+    second: Body|CubeAction.001
+  - first:
+      74: 2082603809838933667
+    second: Body|Empty.001Action
+  - first:
+      74: 8041031071095193258
+    second: Body|Go
+  - first:
+      74: -6259604637932327116
+    second: Body|PropellerAction
+  - first:
+      74: -649637455562579634
+    second: Body|PropellerAction.001
+  - first:
+      74: -6202478687780902460
+    second: Body|PropellerAction.002
+  - first:
+      74: 1701474659247238911
+    second: Body|Rear Tail Left FlapAction
+  - first:
+      74: -4723217929140781267
+    second: Body|Rear Tail LeftAction.002
+  - first:
+      74: 1573254799340564155
+    second: Body|Rear Tail Right FlapAction.001
+  - first:
+      74: 1137923770723856715
+    second: Body|Rear Tail RightAction
+  - first:
+      74: -8995091633108813224
+    second: Body|TailAction
+  - first:
+      74: 3836705973295490110
+    second: Body|wheel leftAction
+  - first:
+      74: 885751401869807705
+    second: Body|wheel rightAction
+  - first:
+      74: -1255328574059474050
+    second: Body|Wing Left FlapAction.002
+  - first:
+      74: 5564341424925870839
+    second: Body|Wing RightAction
+  - first:
+      74: -4563343857526042928
+    second: Body|Wing RightAction.002
+  - first:
+      74: 8144341663035423237
+    second: Wing Left|Action
+  - first:
+      74: 4676284577437514971
+    second: Wing Left|Body.001Action
+  - first:
+      74: 3974140962365833877
+    second: Wing Left|BodyAction
+  - first:
+      74: -4853641264529028409
+    second: Wing Left|CubeAction
+  - first:
+      74: 3450621866416790116
+    second: Wing Left|CubeAction.001
+  - first:
+      74: 8424780570281328448
+    second: Wing Left|Empty.001Action
+  - first:
+      74: 3082604916874443524
+    second: Wing Left|Go
+  - first:
+      74: 7624530029592013377
+    second: Wing Left|PropellerAction
+  - first:
+      74: 6393282392082478692
+    second: Wing Left|PropellerAction.001
+  - first:
+      74: -4642696058653355852
+    second: Wing Left|PropellerAction.002
+  - first:
+      74: -3543833813015621516
+    second: Wing Left|Rear Tail Left FlapAction
+  - first:
+      74: -5977857988585593058
+    second: Wing Left|Rear Tail LeftAction.002
+  - first:
+      74: 4972201704679622695
+    second: Wing Left|Rear Tail Right FlapAction.001
+  - first:
+      74: 8866374822133390680
+    second: Wing Left|Rear Tail RightAction
+  - first:
+      74: -5533171331488140168
+    second: Wing Left|TailAction
+  - first:
+      74: 7363426463217210992
+    second: Wing Left|wheel leftAction
+  - first:
+      74: 8026217173737961957
+    second: Wing Left|wheel rightAction
+  - first:
+      74: -6538126946739054788
+    second: Wing Left|Wing Left FlapAction.002
+  - first:
+      74: -991871405943286012
+    second: Wing Left|Wing RightAction
+  - first:
+      74: 86625790152221654
+    second: Wing Left|Wing RightAction.002
+  - first:
+      74: 694118621372453985
+    second: Tail|Action
+  - first:
+      74: -3872752798381026573
+    second: Tail|Body.001Action
+  - first:
+      74: 1265254866337863635
+    second: Tail|BodyAction
+  - first:
+      74: 2614870038479277532
+    second: Tail|CubeAction
+  - first:
+      74: 3717816947657625382
+    second: Tail|CubeAction.001
+  - first:
+      74: -5739670784099871732
+    second: Tail|Empty.001Action
+  - first:
+      74: 1082007255563877704
+    second: Tail|Go
+  - first:
+      74: -5276745227361693605
+    second: Tail|PropellerAction
+  - first:
+      74: 7296447851227494652
+    second: Tail|PropellerAction.001
+  - first:
+      74: 3834958574952403648
+    second: Tail|PropellerAction.002
+  - first:
+      74: 4449665260202337792
+    second: Tail|Rear Tail Left FlapAction
+  - first:
+      74: -4499718529772367173
+    second: Tail|Rear Tail LeftAction.002
+  - first:
+      74: 5991077134685975663
+    second: Tail|Rear Tail Right FlapAction.001
+  - first:
+      74: 433328589679972830
+    second: Tail|Rear Tail RightAction
+  - first:
+      74: 8791024487959501415
+    second: Tail|TailAction
+  - first:
+      74: 7894417759149500510
+    second: Tail|wheel leftAction
+  - first:
+      74: 3103520050216513679
+    second: Tail|wheel rightAction
+  - first:
+      74: -720122405821290514
+    second: Tail|Wing Left FlapAction.002
+  - first:
+      74: 6769757364633489082
+    second: Tail|Wing RightAction
+  - first:
+      74: -2421911741709968992
+    second: Tail|Wing RightAction.002
+  - first:
+      74: 2231380090131440155
+    second: Rear Tail Right|Action
+  - first:
+      74: -3557096210328288989
+    second: Rear Tail Right|Body.001Action
+  - first:
+      74: -1850321066329588337
+    second: Rear Tail Right|BodyAction
+  - first:
+      74: -8159967462501848495
+    second: Rear Tail Right|CubeAction
+  - first:
+      74: 4154459013947702013
+    second: Rear Tail Right|CubeAction.001
+  - first:
+      74: -1761690441446510987
+    second: Rear Tail Right|Empty.001Action
+  - first:
+      74: 182745629556458446
+    second: Rear Tail Right|Go
+  - first:
+      74: -5801984491009617459
+    second: Rear Tail Right|PropellerAction
+  - first:
+      74: 851394749718900091
+    second: Rear Tail Right|PropellerAction.001
+  - first:
+      74: 7230183113341593264
+    second: Rear Tail Right|PropellerAction.002
+  - first:
+      74: 6339990635433587458
+    second: Rear Tail Right|Rear Tail Left FlapAction
+  - first:
+      74: -6336529241415808497
+    second: Rear Tail Right|Rear Tail LeftAction.002
+  - first:
+      74: 7810457237491562065
+    second: Rear Tail Right|Rear Tail Right FlapAction.001
+  - first:
+      74: 2864518665988969860
+    second: Rear Tail Right|Rear Tail RightAction
+  - first:
+      74: 8400468807973173288
+    second: Rear Tail Right|TailAction
+  - first:
+      74: -7060634309614581534
+    second: Rear Tail Right|wheel leftAction
+  - first:
+      74: 7188648261414234118
+    second: Rear Tail Right|wheel rightAction
+  - first:
+      74: 7395781885759940719
+    second: Rear Tail Right|Wing Left FlapAction.002
+  - first:
+      74: -282420628055844020
+    second: Rear Tail Right|Wing RightAction
+  - first:
+      74: 1681742897717368460
+    second: Rear Tail Right|Wing RightAction.002
+  - first:
+      74: -4715052475588497293
+    second: Rear Tail Left|Action
+  - first:
+      74: 4967663553956866394
+    second: Rear Tail Left|Body.001Action
+  - first:
+      74: 1670709087060852021
+    second: Rear Tail Left|BodyAction
+  - first:
+      74: -1732476466568440234
+    second: Rear Tail Left|CubeAction
+  - first:
+      74: 6978315942037558040
+    second: Rear Tail Left|CubeAction.001
+  - first:
+      74: -4592409371447445698
+    second: Rear Tail Left|Empty.001Action
+  - first:
+      74: -1452526228175701190
+    second: Rear Tail Left|Go
+  - first:
+      74: -2764899624590298440
+    second: Rear Tail Left|PropellerAction
+  - first:
+      74: -2221311395751371372
+    second: Rear Tail Left|PropellerAction.001
+  - first:
+      74: -3079726822509871314
+    second: Rear Tail Left|PropellerAction.002
+  - first:
+      74: -5180399497739921292
+    second: Rear Tail Left|Rear Tail Left FlapAction
+  - first:
+      74: 4825492437975911746
+    second: Rear Tail Left|Rear Tail LeftAction.002
+  - first:
+      74: 2749390961764611919
+    second: Rear Tail Left|Rear Tail Right FlapAction.001
+  - first:
+      74: 4328087676788451381
+    second: Rear Tail Left|Rear Tail RightAction
+  - first:
+      74: -3170754730818242259
+    second: Rear Tail Left|TailAction
+  - first:
+      74: 3875958047677824726
+    second: Rear Tail Left|wheel leftAction
+  - first:
+      74: -6919696702555131364
+    second: Rear Tail Left|wheel rightAction
+  - first:
+      74: -5418825635521550480
+    second: Rear Tail Left|Wing Left FlapAction.002
+  - first:
+      74: -74470205172657176
+    second: Rear Tail Left|Wing RightAction
+  - first:
+      74: -9111769776447564536
+    second: Rear Tail Left|Wing RightAction.002
+  - first:
+      74: -587543189585045892
+    second: Wing Right|Action
+  - first:
+      74: -6290068161883095396
+    second: Wing Right|Body.001Action
+  - first:
+      74: -150452091978572110
+    second: Wing Right|BodyAction
+  - first:
+      74: 2951732499573867706
+    second: Wing Right|CubeAction
+  - first:
+      74: 4208603310379561948
+    second: Wing Right|CubeAction.001
+  - first:
+      74: 5169663824141102644
+    second: Wing Right|Empty.001Action
+  - first:
+      74: -5441663512257854315
+    second: Wing Right|Go
+  - first:
+      74: -7545329038192882484
+    second: Wing Right|PropellerAction
+  - first:
+      74: -2645371549065772245
+    second: Wing Right|PropellerAction.001
+  - first:
+      74: -7552830494063940966
+    second: Wing Right|PropellerAction.002
+  - first:
+      74: -3586287076443855322
+    second: Wing Right|Rear Tail Left FlapAction
+  - first:
+      74: -3053396180026024690
+    second: Wing Right|Rear Tail LeftAction.002
+  - first:
+      74: -5589389992156299376
+    second: Wing Right|Rear Tail Right FlapAction.001
+  - first:
+      74: 5829309353530042298
+    second: Wing Right|Rear Tail RightAction
+  - first:
+      74: 6676252720113020923
+    second: Wing Right|TailAction
+  - first:
+      74: 3232237899505202453
+    second: Wing Right|wheel leftAction
+  - first:
+      74: 7547568736974241559
+    second: Wing Right|wheel rightAction
+  - first:
+      74: 6983868385659497707
+    second: Wing Right|Wing Left FlapAction.002
+  - first:
+      74: -2921562058889256806
+    second: Wing Right|Wing RightAction
+  - first:
+      74: 5068913526853900924
+    second: Wing Right|Wing RightAction.002
+  - first:
+      74: -4629829982449417954
+    second: Landing Gear|Action
+  - first:
+      74: 1645392257465829881
+    second: Landing Gear|Body.001Action
+  - first:
+      74: -695934934174635699
+    second: Landing Gear|BodyAction
+  - first:
+      74: -556749418202555017
+    second: Landing Gear|CubeAction
+  - first:
+      74: 7866427427172679132
+    second: Landing Gear|CubeAction.001
+  - first:
+      74: -5798932376958319787
+    second: Landing Gear|Empty.001Action
+  - first:
+      74: 541811017671919140
+    second: Landing Gear|Go
+  - first:
+      74: -677254997505963346
+    second: Landing Gear|PropellerAction
+  - first:
+      74: -7879018467927833
+    second: Landing Gear|PropellerAction.001
+  - first:
+      74: 6897450619756344423
+    second: Landing Gear|PropellerAction.002
+  - first:
+      74: 5306235906439048025
+    second: Landing Gear|Rear Tail Left FlapAction
+  - first:
+      74: -4052357554623929961
+    second: Landing Gear|Rear Tail LeftAction.002
+  - first:
+      74: 2386485170027278972
+    second: Landing Gear|Rear Tail Right FlapAction.001
+  - first:
+      74: -4646399007522961632
+    second: Landing Gear|Rear Tail RightAction
+  - first:
+      74: -6315689768623708611
+    second: Landing Gear|TailAction
+  - first:
+      74: 1101154461039016449
+    second: Landing Gear|wheel leftAction
+  - first:
+      74: -3675554410658570735
+    second: Landing Gear|wheel rightAction
+  - first:
+      74: -1453729782740152159
+    second: Landing Gear|Wing Left FlapAction.002
+  - first:
+      74: 6986922413651546390
+    second: Landing Gear|Wing RightAction
+  - first:
+      74: -4576246315014272337
+    second: Landing Gear|Wing RightAction.002
+  - first:
+      74: 3051153167854769484
+    second: Rear Tail Right Flap|Action
+  - first:
+      74: 556544735029466442
+    second: Rear Tail Right Flap|Body.001Action
+  - first:
+      74: 5314094650322067413
+    second: Rear Tail Right Flap|BodyAction
+  - first:
+      74: -7725302946755483340
+    second: Rear Tail Right Flap|CubeAction
+  - first:
+      74: 3757965998225964729
+    second: Rear Tail Right Flap|CubeAction.001
+  - first:
+      74: 6284305873501766506
+    second: Rear Tail Right Flap|Empty.001Action
+  - first:
+      74: -2833800543136879929
+    second: Rear Tail Right Flap|Go
+  - first:
+      74: -4402999527759323404
+    second: Rear Tail Right Flap|PropellerAction
+  - first:
+      74: 6482203957307602563
+    second: Rear Tail Right Flap|PropellerAction.001
+  - first:
+      74: 7190415093506733195
+    second: Rear Tail Right Flap|PropellerAction.002
+  - first:
+      74: 6050677310615420281
+    second: Rear Tail Right Flap|Rear Tail Left FlapAction
+  - first:
+      74: 4380460158721775684
+    second: Rear Tail Right Flap|Rear Tail LeftAction.002
+  - first:
+      74: -8864647546190398682
+    second: Rear Tail Right Flap|Rear Tail Right FlapAction.001
+  - first:
+      74: 4799812364460087090
+    second: Rear Tail Right Flap|Rear Tail RightAction
+  - first:
+      74: 6107520851401263613
+    second: Rear Tail Right Flap|TailAction
+  - first:
+      74: 1715190952271660754
+    second: Rear Tail Right Flap|wheel leftAction
+  - first:
+      74: -7940043559375331720
+    second: Rear Tail Right Flap|wheel rightAction
+  - first:
+      74: -7543431907458896261
+    second: Rear Tail Right Flap|Wing Left FlapAction.002
+  - first:
+      74: -2890944302377188260
+    second: Rear Tail Right Flap|Wing RightAction
+  - first:
+      74: -7297838512594962231
+    second: Rear Tail Right Flap|Wing RightAction.002
+  - first:
+      74: 3647408124700633837
+    second: Rear Tail Left Flap|Action
+  - first:
+      74: 9181006142217587453
+    second: Rear Tail Left Flap|Body.001Action
+  - first:
+      74: 1249070421635370044
+    second: Rear Tail Left Flap|BodyAction
+  - first:
+      74: 7163681181015622589
+    second: Rear Tail Left Flap|CubeAction
+  - first:
+      74: 6240827958822544482
+    second: Rear Tail Left Flap|CubeAction.001
+  - first:
+      74: 2568013498323261593
+    second: Rear Tail Left Flap|Empty.001Action
+  - first:
+      74: 8474996119192449142
+    second: Rear Tail Left Flap|Go
+  - first:
+      74: 2526557210615927182
+    second: Rear Tail Left Flap|PropellerAction
+  - first:
+      74: 7591766628799409359
+    second: Rear Tail Left Flap|PropellerAction.001
+  - first:
+      74: 9114837166830143398
+    second: Rear Tail Left Flap|PropellerAction.002
+  - first:
+      74: 6403036674006933028
+    second: Rear Tail Left Flap|Rear Tail Left FlapAction
+  - first:
+      74: 5501999637152095797
+    second: Rear Tail Left Flap|Rear Tail LeftAction.002
+  - first:
+      74: -5007599162781087721
+    second: Rear Tail Left Flap|Rear Tail Right FlapAction.001
+  - first:
+      74: -7229973875901247596
+    second: Rear Tail Left Flap|Rear Tail RightAction
+  - first:
+      74: 2919322325771288293
+    second: Rear Tail Left Flap|TailAction
+  - first:
+      74: -5342784683018609875
+    second: Rear Tail Left Flap|wheel leftAction
+  - first:
+      74: 9341732136790610
+    second: Rear Tail Left Flap|wheel rightAction
+  - first:
+      74: 1317637289182509691
+    second: Rear Tail Left Flap|Wing Left FlapAction.002
+  - first:
+      74: -252296913399036486
+    second: Rear Tail Left Flap|Wing RightAction
+  - first:
+      74: -6622073433250275116
+    second: Rear Tail Left Flap|Wing RightAction.002
+  - first:
+      74: -4695083628097936532
+    second: Wing Left Flap|Action
+  - first:
+      74: -7508285807296398195
+    second: Wing Left Flap|Body.001Action
+  - first:
+      74: 4026656526028604155
+    second: Wing Left Flap|BodyAction
+  - first:
+      74: 2216600604046246549
+    second: Wing Left Flap|CubeAction
+  - first:
+      74: -5129301427310077147
+    second: Wing Left Flap|CubeAction.001
+  - first:
+      74: 5847435222309915936
+    second: Wing Left Flap|Empty.001Action
+  - first:
+      74: 6325456119995541537
+    second: Wing Left Flap|Go
+  - first:
+      74: 6113928709618790412
+    second: Wing Left Flap|PropellerAction
+  - first:
+      74: 6501579840397858535
+    second: Wing Left Flap|PropellerAction.001
+  - first:
+      74: -4017536477839575575
+    second: Wing Left Flap|PropellerAction.002
+  - first:
+      74: -276370799801365726
+    second: Wing Left Flap|Rear Tail Left FlapAction
+  - first:
+      74: -89805005177525974
+    second: Wing Left Flap|Rear Tail LeftAction.002
+  - first:
+      74: 2940401075475737651
+    second: Wing Left Flap|Rear Tail Right FlapAction.001
+  - first:
+      74: -5404177322275240039
+    second: Wing Left Flap|Rear Tail RightAction
+  - first:
+      74: -6730898751250945349
+    second: Wing Left Flap|TailAction
+  - first:
+      74: 5878268663014955811
+    second: Wing Left Flap|wheel leftAction
+  - first:
+      74: 4589135411368214193
+    second: Wing Left Flap|wheel rightAction
+  - first:
+      74: 2076564569489180056
+    second: Wing Left Flap|Wing Left FlapAction.002
+  - first:
+      74: -388716336886129476
+    second: Wing Left Flap|Wing RightAction
+  - first:
+      74: 1637204200582430258
+    second: Wing Left Flap|Wing RightAction.002
+  - first:
+      74: -6855393160874049102
+    second: Cockpit|Action
+  - first:
+      74: -5521214528727924579
+    second: Cockpit|Body.001Action
+  - first:
+      74: 5581851832771186215
+    second: Cockpit|BodyAction
+  - first:
+      74: 7996498424910687951
+    second: Cockpit|CubeAction
+  - first:
+      74: -7946528947075928419
+    second: Cockpit|CubeAction.001
+  - first:
+      74: 2797763297374416286
+    second: Cockpit|Empty.001Action
+  - first:
+      74: -7428455581269134965
+    second: Cockpit|Go
+  - first:
+      74: -6041248672297208655
+    second: Cockpit|PropellerAction
+  - first:
+      74: 5512216049947478712
+    second: Cockpit|PropellerAction.001
+  - first:
+      74: -22182373268663831
+    second: Cockpit|PropellerAction.002
+  - first:
+      74: -7600682023834136506
+    second: Cockpit|Rear Tail Left FlapAction
+  - first:
+      74: 3427122814726675680
+    second: Cockpit|Rear Tail LeftAction.002
+  - first:
+      74: -3447685488226541848
+    second: Cockpit|Rear Tail Right FlapAction.001
+  - first:
+      74: 3285440726164224621
+    second: Cockpit|Rear Tail RightAction
+  - first:
+      74: -538578450436069824
+    second: Cockpit|TailAction
+  - first:
+      74: -3902111536935727589
+    second: Cockpit|wheel leftAction
+  - first:
+      74: 8421616784476158241
+    second: Cockpit|wheel rightAction
+  - first:
+      74: 9100094430706551543
+    second: Cockpit|Wing Left FlapAction.002
+  - first:
+      74: 8885796233396545047
+    second: Cockpit|Wing RightAction
+  - first:
+      74: -2584263497493835866
+    second: Cockpit|Wing RightAction.002
+  - first:
+      74: 1519803302069909334
+    second: wheel left|Action
+  - first:
+      74: -5709354970975227911
+    second: wheel left|Body.001Action
+  - first:
+      74: 1220433489668654596
+    second: wheel left|BodyAction
+  - first:
+      74: 6704262868929611698
+    second: wheel left|CubeAction
+  - first:
+      74: -2231590875370526801
+    second: wheel left|CubeAction.001
+  - first:
+      74: 433384764801888047
+    second: wheel left|Empty.001Action
+  - first:
+      74: -8157349286272896277
+    second: wheel left|Go
+  - first:
+      74: 3795794745659723621
+    second: wheel left|PropellerAction
+  - first:
+      74: 4786535181692985271
+    second: wheel left|PropellerAction.001
+  - first:
+      74: -5246179059017075475
+    second: wheel left|PropellerAction.002
+  - first:
+      74: 3163748821376943839
+    second: wheel left|Rear Tail Left FlapAction
+  - first:
+      74: -5259672516737082193
+    second: wheel left|Rear Tail LeftAction.002
+  - first:
+      74: -2632389108741736732
+    second: wheel left|Rear Tail Right FlapAction.001
+  - first:
+      74: -220021752633329476
+    second: wheel left|Rear Tail RightAction
+  - first:
+      74: 7102471346402746147
+    second: wheel left|TailAction
+  - first:
+      74: -3387098497481523596
+    second: wheel left|wheel leftAction
+  - first:
+      74: -1756279810984794517
+    second: wheel left|wheel rightAction
+  - first:
+      74: 6826891826044576820
+    second: wheel left|Wing Left FlapAction.002
+  - first:
+      74: -4161059582393776069
+    second: wheel left|Wing RightAction
+  - first:
+      74: 7264169438992297226
+    second: wheel left|Wing RightAction.002
+  - first:
+      74: 536080458920150966
+    second: wheel right|Action
+  - first:
+      74: 2411083554852495264
+    second: wheel right|Body.001Action
+  - first:
+      74: 3426358388870139786
+    second: wheel right|BodyAction
+  - first:
+      74: 2473171384220313290
+    second: wheel right|CubeAction
+  - first:
+      74: -5364189301885884874
+    second: wheel right|CubeAction.001
+  - first:
+      74: 8197805873098250779
+    second: wheel right|Empty.001Action
+  - first:
+      74: 135090466576518878
+    second: wheel right|Go
+  - first:
+      74: -3759132229836376807
+    second: wheel right|PropellerAction
+  - first:
+      74: -1537417505274234795
+    second: wheel right|PropellerAction.001
+  - first:
+      74: -6258713327001578439
+    second: wheel right|PropellerAction.002
+  - first:
+      74: 364457705151855983
+    second: wheel right|Rear Tail Left FlapAction
+  - first:
+      74: -3577351007534953582
+    second: wheel right|Rear Tail LeftAction.002
+  - first:
+      74: -1837282771978684944
+    second: wheel right|Rear Tail Right FlapAction.001
+  - first:
+      74: 8955269292337409801
+    second: wheel right|Rear Tail RightAction
+  - first:
+      74: -8791110805509364223
+    second: wheel right|TailAction
+  - first:
+      74: 8969489740688442072
+    second: wheel right|wheel leftAction
+  - first:
+      74: 982182565787758704
+    second: wheel right|wheel rightAction
+  - first:
+      74: -5743309876555671543
+    second: wheel right|Wing Left FlapAction.002
+  - first:
+      74: 2731612749638845915
+    second: wheel right|Wing RightAction
+  - first:
+      74: 635281594013191109
+    second: wheel right|Wing RightAction.002
+  - first:
+      74: -8051102449201487124
+    second: Cube|Action
+  - first:
+      74: -1455803442350456604
+    second: Cube|Body.001Action
+  - first:
+      74: 8889337519470373129
+    second: Cube|BodyAction
+  - first:
+      74: -3999578356269874737
+    second: Cube|CubeAction
+  - first:
+      74: -7918129362319027497
+    second: Cube|CubeAction.001
+  - first:
+      74: 5135945932437893213
+    second: Cube|Empty.001Action
+  - first:
+      74: 8384876871853057043
+    second: Cube|Go
+  - first:
+      74: 5554519734160196461
+    second: Cube|PropellerAction
+  - first:
+      74: -4276095000516412989
+    second: Cube|PropellerAction.001
+  - first:
+      74: 6403031826048773984
+    second: Cube|PropellerAction.002
+  - first:
+      74: -3840749464581738966
+    second: Cube|Rear Tail Left FlapAction
+  - first:
+      74: -8249068024929261852
+    second: Cube|Rear Tail LeftAction.002
+  - first:
+      74: -848951927484499692
+    second: Cube|Rear Tail Right FlapAction.001
+  - first:
+      74: 4236849184305139581
+    second: Cube|Rear Tail RightAction
+  - first:
+      74: -2704802813678515105
+    second: Cube|TailAction
+  - first:
+      74: 6131360518446954684
+    second: Cube|wheel leftAction
+  - first:
+      74: 1240708150891839143
+    second: Cube|wheel rightAction
+  - first:
+      74: -7489235537294882774
+    second: Cube|Wing Left FlapAction.002
+  - first:
+      74: 1169365252456279938
+    second: Cube|Wing RightAction
+  - first:
+      74: 902366873984047739
+    second: Cube|Wing RightAction.002
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
